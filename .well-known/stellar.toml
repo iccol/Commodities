@@ -37,5 +37,5 @@ attestation_of_reserve="https://stellar.expert/explorer/public/asset/COMM-GDVWPE
 name="Commodity Coin"
 desc="Fungible base/counter cryptocurrency."
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
-image="https://commodities.pages.dev"
+image=""
 fixed_number="1"
