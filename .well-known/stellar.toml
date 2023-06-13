@@ -1,1 +1,43 @@
 
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+FEDERATION_SERVER="https://api.stellar.org/federation"
+TRANSFER_SERVER="https://api.stellar.org/auth"
+HORIZON_URL="https://horizon.stellar.org"
+
+ACCOUNTS=["GCFLUK4UK77337BRT6UGWP5UHYB73PSQ4HRACL6HJOQWH4GAKL4UX3RB"]
+
+[DOCUMENTATION]
+
+ORG_NAME="commodities"
+ORG_URL="https://commodities.pages.dev"
+ORG_LOGO=""
+ORG_DESCRIPTION="Diversified"
+ORG_PHYSICAL_ADDRESS="Los Angeles, CA 90067, United States"
+ORG_PHYSICAL_ADDRESS_ATTESTATION=""
+ORG_PHONE_NUMBER="+10000000000"
+ORG_PHONE_NUMBER_ATTESTATION=""
+ORG_KEYBASE=""
+ORG_TWITTER=""
+ORG_GITHUB=""
+ORG_OFFICIAL_EMAIL=""
+
+[[PRINCIPALS]]
+name="sass"
+email=""
+keybase=""
+twitter=""
+github=""
+id_photo_hash=""
+verification_photo_hash=""
+
+[[CURRENCIES]]
+code="COMM"
+issuer="GDVWPEOTJOPRT433PX6LULEPML5AN6QJO4GCFVFK43IPRQ23NPQAUSDF"
+display_decimals=4
+attestation_of_reserve="https://stellar.expert/explorer/public/asset/COMM-GDVWPEOTJOPRT433PX6LULEPML5AN6QJO4GCFVFK43IPRQ23NPQAUSDF-1?filter=markets&market=SDEXEX-GBQHMDRWV3WU5YACBUUCBY4Y6PPWBJXW5WCSG5XJ63FC4HXJNGXYFD5J-2"
+name="Commodity Coin"
+desc="Fungible base/counter cryptocurrency."
+conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
+image="https://commodities.pages.dev"
+fixed_number="1000000000"
