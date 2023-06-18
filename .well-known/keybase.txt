@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/commoditycoin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://commodities.pages.dev
+  * I am commoditycoin (https://keybase.io/commoditycoin) on keybase.
+  * I have a public key ASDenpoGoCbEGtUDZ9XxzfoPPMf4rpdIFmPuvTh5ywEa9go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120de9e9a06a026c41ad50367d5f1cdfa0f3cc7f8ae97481663eebd3879cb011af60a",
+      "host": "keybase.io",
+      "kid": "0120de9e9a06a026c41ad50367d5f1cdfa0f3cc7f8ae97481663eebd3879cb011af60a",
+      "uid": "bb15c6655183e99446fa0d25c3d77a19",
+      "username": "commoditycoin"
+    },
+    "merkle_root": {
+      "ctime": 1687057428,
+      "hash": "29c8ba5adf3dc279585e23928905123ff513719c10c0d201478454e1da62855d066fb5b97525b65b9306024bdc10b55a216c82f84630ad1e065e01c9408cf4b5",
+      "hash_meta": "a7d3e7c1b3a99604aa661a80b480685d9c9e26c98937936c848aa98a86b64f01",
+      "seqno": 24580009
+    },
+    "service": {
+      "entropy": "1zj/jvwCSM+oS7++fgOLPNnK",
+      "hostname": "commodities.pages.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1687057525,
+  "expire_in": 504576000,
+  "prev": "f853835ea457a5016783f98c3ed8c2229f9be6f50897920ffa2d212402857d29",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3p6aBqAmxBrVA2fV8c36DzzH+K6XSBZj7r04ecsBGvYKp3BheWxvYWTESpcCBMQg+FODXqRXpQFng/mMPtjCIp+b5vUIl5IP+i0hJAKFfSnEIJurJD+BQY5wDPFEKFPzjaaOAvo1MqdIG7KtWh5J6OehAgHCo3NpZ8RA+Ax3DeLWiTdAXAqhnCXWD6fDfm9VjTaiLq9+iVvQd5hB38+UGDqbeC2d0onBmP3U0ibe4dX5suJnANEylPMbCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMABHG2Hs22FPBgfuJH0UVekRStagPQl98oRiQ3ash9So3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/commoditycoin
+
+==================================================================
